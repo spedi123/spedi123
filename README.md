@@ -17,7 +17,7 @@ I'm Seonggyu An(Peter), a self-motivated tech enthusiast and full stack web deve
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
