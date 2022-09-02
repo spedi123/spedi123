@@ -16,3 +16,5 @@ I'm Seonggyu An(Peter), a self-motivated tech enthusiast and full stack web deve
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+<img src="https://img.shields.io/badge/232F3E?style=for-the-badge&logo=AWS&logoColor=black">
