@@ -3,3 +3,6 @@
 <p align="center">
 I'm Seonggyu An(Peter), a self-motivated tech enthusiast and full stack web developer.
 </p>
+
+
+#E34F26
